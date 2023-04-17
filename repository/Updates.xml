@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>《Qt 6 C++开发指南》全书示例</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Samples</Name>
+  <DisplayName>可运行程序</DisplayName>
+  <Description>全书示例可运行程序</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2022-03-16</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <SortingPriority>100</SortingPriority>
+  <UpdateFile OS="Any" CompressedSize="97423856" UncompressedSize="202287239"/>
+  <DownloadableArchives>ReleaseTest.7z</DownloadableArchives>
+  <Licenses>
+   <License name="GNU Public License Agreement" file="license.txt"/>
+  </Licenses>
+ </PackageUpdate>
+</Updates>

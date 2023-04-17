@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>《Qt 6 C++开发指南》全书示例</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>Samples</Name>
+        <Title>可运行程序</Title>
+        <Description>全书示例可运行程序</Description>
+        <TreeName></TreeName>
+        <Version>1.0.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2023-04-17</InstallDate>
+        <Size>202287239</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+</Packages>

@@ -1,0 +1,54 @@
+************************************* Invoked: 周一 4月 17 16:17:12 2023
+[0] Arguments: C:\Users\24431\Desktop\信安作品赛\《Qt 6 C++开发指南》全书示例源码、演示软件及使用说明\01《Qt 6 C++开发指南》全书示例演示软件 V1.0.exe
+[7] Operations sanity check succeeded.
+[9] Language: zh-CN
+[6711] 正在准备下载元信息...
+[65029] OverwriteTargetDirectory : 警告 : 您已选择现有非空目录进行安装。
+请注意，在卸载此应用程序时将完全删除该目录。
+不建议安装到此目录中，因为安装可能会失败。
+是否要继续? Yes|No
+[170142] Installation space required: "327.33 MB" Temporary space required: "0.00 字节" Local repository size: "115.12 MB"
+[170144] Tmp is on a different volume than the installation directory. Tmp volume mount point: "C:\\" Free space available: "72.13 GB" Install volume mount point: "D:\\" Free space available: "160.80 GB"
+[172133] backup  operation: Mkdir
+[172133] 	- arguments: D:/QT Program/qt_6_c++_example
+[172133] Done
+[172133] perform  operation: Mkdir
+[172133] 	- arguments: D:/QT Program/qt_6_c++_example
+[172133] Done
+[172134] 正在准备安装…
+[172134] Install size: 1 components
+[172138] 正在安装组件 可运行程序
+[172138] backup Samples operation: Extract
+[172138] 	- arguments: installer://Samples/1.0.0ReleaseTest.7z, D:/QT Program/qt_6_c++_example
+[172138] Done
+[172138] perform Samples operation: Extract
+[172138] 	- arguments: installer://Samples/1.0.0ReleaseTest.7z, D:/QT Program/qt_6_c++_example
+[175646] Done
+[175647] backup Samples operation: CreateShortcut
+[175647] 	- arguments: D:/QT Program/qt_6_c++_example\Book6DemoUser.exe, C:\Users\24431\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt 6 C++开发指南\Qt 6 C++开发指南全书示例.lnk, workingDirectory=D:/QT Program/qt_6_c++_example
+[175647] Done
+[175647] perform Samples operation: CreateShortcut
+[175647] 	- arguments: D:/QT Program/qt_6_c++_example\Book6DemoUser.exe, C:\Users\24431\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Qt 6 C++开发指南\Qt 6 C++开发指南全书示例.lnk
+[175674] Done
+[175674] backup Samples operation: CreateShortcut
+[175674] 	- arguments: D:/QT Program/qt_6_c++_example\Book6DemoUser.exe, C:\Users\24431\Desktop\Qt 6 C++开发指南全书示例.lnk, workingDirectory=D:/QT Program/qt_6_c++_example
+[175674] Done
+[175674] perform Samples operation: CreateShortcut
+[175674] 	- arguments: D:/QT Program/qt_6_c++_example\Book6DemoUser.exe, C:\Users\24431\Desktop\Qt 6 C++开发指南全书示例.lnk
+[175687] Done
+[175687] backup Samples operation: License
+[175687] 	- arguments:
+[175687] Done
+[175687] perform Samples operation: License
+[175687] 	- arguments:
+[175689] Done
+[175691] 
+[175699] 正在创建本地资料档案库
+[175701] perform  operation: CreateLocalRepository
+[175701] 	- arguments: C:/Users/24431/Desktop/信安作品赛/《Qt 6 C++开发指南》全书示例源码、演示软件及使用说明/01《Qt 6 C++开发指南》全书示例演示软件 V1.0.exe, D:/QT Program/qt_6_c++_example/repository
+[175864] Done
+[175869] Writing maintenance tool: "D:/QT Program/qt_6_c++_example/maintenancetool.exe.new"
+[175869] 编写维护工具
+[175918] Wrote permissions for maintenance tool.
+[176004] Maintenance tool restart: false.
+[176009] 安装已完成!
