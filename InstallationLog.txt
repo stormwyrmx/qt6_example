@@ -52,3 +52,7 @@
 [175918] Wrote permissions for maintenance tool.
 [176004] Maintenance tool restart: false.
 [176009] 安装已完成!
+************************************* Invoked: 周一 4月 17 16:38:50 2023
+[0] Arguments: D:\QT Program\qt_6_c++_example\maintenancetool.exe
+[7] Operations sanity check succeeded.
+[11] Language: zh-CN
